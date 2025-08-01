@@ -1,7 +1,7 @@
 # İklim koruyucu
 
 # ♻️ İklim koruyucu – Geri Dönüşüm Bilgi Asistanı
-RecycleBot, Discord üzerinde çalışarak kullanıcılara atıkların doğru şekilde ayrıştırılması konusunda yardımcı olan çevreci bir bottur. Bilgilendirici, eğitici ve sürdürülebilir bir yaşam için rehber niteliğindedir.
+İklim koruyucu, Discord üzerinde çalışarak kullanıcılara atıkların doğru şekilde ayrıştırılması konusunda yardımcı olan çevreci bir bottur. Bilgilendirici, eğitici ve sürdürülebilir bir yaşam için rehber niteliğindedir.
 
 # 🔧 Özellikler
 /ayristir <eşya> – Eşyaların hangi atık kutusuna gitmesi gerektiğini söyler.
